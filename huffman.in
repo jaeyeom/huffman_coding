@@ -1,0 +1,7 @@
+Simple text example for huffman coding. This should be long enough to
+make this huffman coding useful. Because of the frequency file,
+huffman encoding will actually increase the total size, if the input
+is too short.
+
+The sentence "The quick brown fox jumps over the lazy dog" may not be
+very good for huffman coding.
